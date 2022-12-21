@@ -1,3 +1,26 @@
+원본 주소
+
+https://github.com/log2348/workspace_java/tree/main/project_minigame
+
+
+--이분께서 하신 것을 따라하게되었습니다.--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## :meat_on_bone: 치킨 배달 게임 프로젝트 :meat_on_bone:
 
 제작 기간은 1주이며 총 3명이 합작하여 만들었습니다.
